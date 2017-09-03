@@ -8,6 +8,7 @@ using System.Data.Linq.Mapping;
 
 namespace TestAnimal 
 {
+    //изменение
     [Table(Name = "Animal")]//для linq
    public class Animal: IFields
     {
